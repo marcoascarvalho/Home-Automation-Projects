@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HomeAutomationApp</string>
+    <string name="action_settings">Settings</string>
+	<string name="title_activity_Individual_Control">Individual Control</string>
+	<string name="title_activity_Events_Control">Events Control</string>
+    <string name="title_activity_General_Configuration">General Configuration</string>
+    <string name="title_activity_Event_Register">Event Register</string>
+    <string name="title_activity_Event_Visualization">Event Visualization</string>
+    <string name="title_activity_House_Register">House Register</string>
+    <string name="title_activity_Network_Register">Network Register</string>
+    
+</resources>

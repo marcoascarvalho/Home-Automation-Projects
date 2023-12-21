@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textViewHouseName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="House Name:" />
+
+    <EditText
+        android:id="@+id/editTextHouseName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/buttonOKRegisterHouse"
+        android:layout_width="92dp"
+        android:layout_height="wrap_content"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/textViewHouseEnvironment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="46dp"
+        android:text="House Environment:" />
+
+    <EditText
+        android:id="@+id/editTextHouseEnvironment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/buttonOKHouseEnvironment"
+        android:layout_width="91dp"
+        android:layout_height="wrap_content"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/textViewControlDevice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Control Device:" />
+
+    <EditText
+        android:id="@+id/editTextHouseDeviceName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupDeviceOption"
+        android:layout_width="wrap_content"
+        android:layout_height="63dp" >
+
+        <RadioButton
+            android:id="@+id/radioLightOption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Light" />
+
+        <RadioButton
+            android:id="@+id/radioApplianceOption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Appliance" />
+    </RadioGroup>
+
+ 
+    <Button
+                android:id="@+id/OKRegisterPoint"
+                android:layout_width="92dp"
+                android:layout_height="wrap_content"
+                android:text="OK" />
+ 
+
+</LinearLayout>

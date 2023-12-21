@@ -1,0 +1,3 @@
+CHANGED,C:\Users\Marco\StudioProjects\HomeAutomationApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\homeautomationapp\NetworkRegisterScreenActivity$3$override.class
+CHANGED,C:\Users\Marco\StudioProjects\HomeAutomationApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Marco\StudioProjects\HomeAutomationApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\homeautomationapp\NetworkRegisterScreenActivity$override.class

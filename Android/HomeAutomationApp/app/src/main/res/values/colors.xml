@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <drawable name="red_color">#F40303</drawable>
+    <drawable name="blue_color">#1703F4</drawable>
+
+    <color name="red_color">#F40303</color>
+    <color name="blue_color">#1703F4</color>
+    <color name="black_color">#000000</color>
+    <color name="white_color">#FFFFFF</color>
+
+</resources>
